@@ -9,6 +9,7 @@ Before virtualization, the standard was "one server = one application," which le
 - Low utilization — most servers ran at only 5–20% capacity
 - Slow deployment — new servers took days or weeks to provision
 - Poor scalability — scaling meant buying more hardware
+  
 Virtualization solves this by letting multiple isolated systems share one physical server safely.
 
 ### Hypervisors
