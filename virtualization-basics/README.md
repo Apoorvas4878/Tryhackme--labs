@@ -54,5 +54,6 @@ Disk Size:	100 GB
 
 ![Creating a VM](Creation%20of%20VM.png)
 
+![VM Created](VM%20created.png)
 
-[VM Running](VM%20running.png)
+![VM Running](VM%20running.png)
