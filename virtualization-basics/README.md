@@ -44,3 +44,9 @@ Name: 	Marketing-VM
 CPU:    Cores	4
 Memory: 	8 GB
 Disk Size:	100 GB
+
+## Screenshots
+
+![Email Server Issue 1](IR-%20Email%20sever%201.png)
+
+![Email Server Issue 2](IR-%20Email%20server%202.png)
