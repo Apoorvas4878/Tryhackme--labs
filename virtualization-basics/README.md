@@ -37,6 +37,13 @@ Type2: Within the existing OS best for Testing, learning, malware analysis, runn
 - Investigated the Lab Machines section and found Mail-SERVER in an Error state.
 - Restarted the VM; service was restored with no further errors.
 
+
+## Screenshots
+
+![Email Server Issue 1](IR-%20Email%20sever%201.png)
+
+![Email Server Issue 2](IR-%20Email%20server%202.png)
+
 ### Provisioning a New VM
 Created a VM for the marketing team's website with the following specs:
 
@@ -44,9 +51,3 @@ Name: 	Marketing-VM
 CPU:    Cores	4
 Memory: 	8 GB
 Disk Size:	100 GB
-
-## Screenshots
-
-![Email Server Issue 1](IR-%20Email%20sever%201.png)
-
-![Email Server Issue 2](IR-%20Email%20server%202.png)
